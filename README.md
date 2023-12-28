@@ -11,6 +11,8 @@ How it works:
 The documentation in the .js file should explain how the code works and the logic behind said code.
 
 How to run it:
-Once you've downloaded the project/cloned the repository, simply compile the .js file on your computer terminal (run command 'node SlotMachine.js').
+1) Once you've downloaded the project/cloned the repository, navigate to folder on terminal, and then run command 'npm init'.
+2) Then run command 'npm i prompt-sync'.
+3) To compile, run command 'node SlotMachine.js'.
 
 Have fun!
